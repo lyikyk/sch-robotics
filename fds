@@ -1,0 +1,35 @@
+[33mcommit ebdcf200d0b3e86215d673df60b047f8111044b4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: lyikyk <lyikyk@gmail.com>
+Date:   Tue Nov 16 11:02:36 2021 +0900
+
+    change main to use list ops
+
+[33mcommit 9f2d87e53ef2b87b6e218225da4109f1dbf10729[m
+Author: lyikyk <lyikyk@gmail.com>
+Date:   Tue Nov 16 11:01:47 2021 +0900
+
+    implement multiply and substract
+
+[33mcommit 721c13a5913575fde9c54faddd9d3004c091b3be[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lyikyk <lyikyk@gmail.com>
+Date:   Thu Nov 11 15:47:06 2021 +0900
+
+    merge conflict
+
+[33mcommit 7cbc901fcc33973dfc2a044e7a837ff4c2ec43d0[m
+Author: lyikyk <lyikyk@gmail.com>
+Date:   Thu Nov 11 15:38:53 2021 +0900
+
+    edit anything.py
+
+[33mcommit e5ba70582661c6187a638c1d3d495e0f512bf202[m
+Author: lyikyk <lyikyk@gmail.com>
+Date:   Thu Nov 11 15:30:02 2021 +0900
+
+    add new file
+
+[33mcommit 2954f5d57d6863428b50a58db503d551385f3831[m
+Author: lyikyk <94099726+lyikyk@users.noreply.github.com>
+Date:   Thu Nov 11 15:07:16 2021 +0900
+
+    Initial commit
